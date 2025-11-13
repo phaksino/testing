@@ -34,6 +34,12 @@ A full-stack bug tracking application built with the MERN stack (MongoDB replace
 - **Chrome DevTools** - Debugging
 - **Nodemon** - Development server auto-restart
 
+## Screenshots
+<img width="1306" height="651" alt="image" src="https://github.com/user-attachments/assets/008b6f93-e197-4b24-b392-4b9b522bfe94" />
+
+<img width="1306" height="655" alt="image" src="https://github.com/user-attachments/assets/cab14fcc-47d6-4d07-ad3c-a370710f8c4e" />
+
+
 ## 📦 Installation
 
 ### Prerequisites
